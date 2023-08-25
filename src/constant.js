@@ -2,11 +2,11 @@
 export const PRODUCT = [
     {
         name: "VoyageGuard",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi accusamus sapiente, doloribus nesciunt atque quaerat ad labore totam magnam, inventore at, minima asperiores corporis reprehenderit nostrum! Non!",
+        description: "VoyageGuard is a comprehensive travel insurance provider offering coverage and assistance for a wide range of travel-related uncertainties and emergencies.",
         path: "/images/voyagegard.png"
     }, {
         name: "Xordrobe",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi accusamus sapiente, doloribus nesciunt atque quaerat ad labore totam magnam, inventore at, minima asperiores corporis reprehenderit nostrum! Non!",
+        description: "Xordrobe is an innovative ecommerce platform that offers a diverse range of clothing items, providing customers with a convenient and enjoyable online shopping experience to explore and purchase the latest fashion trends.",
         path: "/images/aa.png"
     }, {
         name: "Xortrance",
