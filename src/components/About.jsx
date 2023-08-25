@@ -10,7 +10,7 @@ const About = () => {
             TEAM.map(item => (
               <div key={item.name} className=''>
                 <div>
-                  <img src={item.path} alt={`image of ${item.name}`} className='mx-auto w-33
+                  <img src={item.path} alt={`image of ${item.name}`} className='mx-auto w-32
                   aspect-square object-cover rounded-full'/>
                 </div>
                 <h3 className='text-[1.3rem] tracking- font-semibold font-mukta mt-4 text-center tracking-wider'>
