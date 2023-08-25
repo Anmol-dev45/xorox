@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { BiMenuAltRight } from "react-icons/bi"
-import logo from "/public/images/logo.png"
+import logo from "/images/logo.png"
 const Navbar = () => {
 
     const [open, setOpen] = useState(false)
