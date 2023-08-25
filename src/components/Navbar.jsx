@@ -11,7 +11,7 @@ const Navbar = () => {
                 <div className='mt-[-10px]'>
                     <img src={logo} alt="" width={130} />
                 </div>
-                <nav className={`flex flex-col md:flex-row fixed md:static top-0 right-0 h-screen md:h-auto py-32  px-20 md:p-0 gap-5  md:gap-10  items-start md:items-center font-ubuntu bg-pure md:bg-transparent  ${open ? "max-md:-translate-x-[0%]" : "max-md:translate-x-[100%]"} transition-all duration-200 ease-linear`}>
+                <nav className={`flex flex-col md:flex-row fixed md:static top-0 right-0 h-screen md:h-auto py-32  px-20 md:p-0 gap-5  md:gap-10  items-start md:items-center font-ubuntu bg-pure md:bg-transparent  ${open ? "max-md:-translate-x-[0%]" : "max-md:translate-x-[100%]"} transition-all duration-200 ease-linear z-20`}>
                     <a href="#" className='capitalize'>home</a>
                     <a href="#product" className='capitalize'>products</a>
                     <a href="#about" className='capitalize'>about us</a>
