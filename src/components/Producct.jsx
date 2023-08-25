@@ -10,7 +10,7 @@ const Producct = () => {
                     {
                         PRODUCT && (
                             PRODUCT.map(item => (
-                                <div key={item.name} className='flex flex-col even:flex-row  odd:flex-row-reverse items-start justify-center md:items-center gap-y-10 ' >
+                                <div key={item.name} className='flex flex-col even:md:flex-row  odd:md:flex-row-reverse items-start justify-center md:items-center gap-y-[80px] ' >
                                     <div className='flex-1'>
                                         <img src={item.path} alt={`image of ${item.name}`} className='max-w-[30%] mx-auto' />
                                     </div>
