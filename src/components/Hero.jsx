@@ -3,7 +3,7 @@ import React from 'react'
 const Hero = () => {
     return (
         <section>
-            <div className="container mx-auto px-4 md:px-24 mt-16 flex flex-col md:flex-row md:justify-between md:items-start gap-[60px]">
+            <div className="container mx-auto px-4 md:mt-32 md:px-24 mt-16 flex flex-col md:flex-row md:justify-between md:items-start gap-[60px]">
                 <div className='flex-1'>
                     <div className='flex gap-2 items-center'>
                         <div className='h-10 w-[0.3rem] bg-secondary rounded-xl'></div>
@@ -17,7 +17,7 @@ const Hero = () => {
                 </div>
                 <div className='flex-1'>
                     <p className='font-ubuntu text-justify md:pl-1'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi accusamus sapiente, doloribus nesciunt atque quaerat ad labore totam magnam, inventore at, minima asperiores corporis reprehenderit nostrum! Non!</p>
-                    <button className="btn mt-6 lg:mt-8 mb-20 md:mb-64" >about us</button>
+                    <button className="btn mt-6 lg:mt-8 mb-20 md:mb-48" ><a href="#about" >about us</a></button>
                 </div>
 
             </div>
