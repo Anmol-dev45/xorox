@@ -31,7 +31,7 @@ const Footer = () => {
                             </div>
                         </div>
                     </div>
-                    <p className='text-white font-semibold mt-4'>Copyright<span>&#169;</span>Xorvix All right Reserved</p>
+                    <p className='text-white font-semibold mt-4'>Copyright <span>&#169;</span> Xorvix. All right Reserved.</p>
                 </div>
                 <div className='md:ml-auto md:mr-4'>
                     <h2 className='capitalize font-ubuntu text-3xl font-bold text-white text-center mb-8'>contact us</h2>
