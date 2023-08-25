@@ -16,7 +16,7 @@ const Hero = () => {
                 
                 </div>
                 <div className='flex-1'>
-                    <p className='font-ubuntu text-justify md:pl-1'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi accusamus sapiente, doloribus nesciunt atque quaerat ad labore totam magnam, inventore at, minima asperiores corporis reprehenderit nostrum! Non!</p>
+                    <p className='font-ubuntu text-justify md:pl-1'>Pioneering Tomorrow's Possibilities. We blend innovation and expertise to engineer solutions that redefine industries. With a passion for excellence, we create a future where ideas become reality. Join us on a journey to transform the world through technology and imagination.</p>
                     <button className="btn mt-6 lg:mt-8 mb-20 md:mb-48" ><a href="#about" >about us</a></button>
                 </div>
 
