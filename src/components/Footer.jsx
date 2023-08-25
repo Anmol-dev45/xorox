@@ -5,8 +5,8 @@ import { PiTiktokLogo, PiTwitterLogo } from "react-icons/pi"
 const Footer = () => {
     return (
         <section id='contact' className='pt-24 pb-10 bg-secondary'>
-            <div className="container mx-auto px-4 flex flex-col-reverse md:flex-row justify-between gap-x-10">
-                <div className='flex flex-col justify-between w-full'>
+            <div className="container mx-auto px-4 flex flex-col-reverse md:flex-row justify-between">
+                <div className='flex flex-col justify-between w-full md:pr-16'>
                     <h1 className='text-5xl text-white font-ubuntu font-black'>Xorvix</h1>
                     <div className='text-white font-semibold flex justify-between'>
                         <div className='flex flex-col items-start gap-y-5'>
