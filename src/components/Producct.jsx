@@ -10,7 +10,7 @@ const Producct = () => {
                     {
                         PRODUCT && (
                             PRODUCT.map(item => (
-                                <div key={item.name} className='p-8 bg-white rounded-xl w-[400px]' >
+                                <div key={item.name} className='p-8 bg-white rounded-xl w-[390px]' >
                                     <div >
                                         <img src={item.path} alt={`image of ${item.name}`} className='max-w-[30%] mx-auto' />
                                     </div>
