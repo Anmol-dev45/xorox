@@ -17,7 +17,7 @@ const Hero = () => {
                 </div>
                 <div className='flex-1'>
                     <p className='font-ubuntu text-justify md:pl-1'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi accusamus sapiente, doloribus nesciunt atque quaerat ad labore totam magnam, inventore at, minima asperiores corporis reprehenderit nostrum! Non!</p>
-                    <button className="btn mt-6 lg:mt-8 mb-16 md:mb-52" >about us</button>
+                    <button className="btn mt-6 lg:mt-8 mb-20 md:mb-64" >about us</button>
                 </div>
 
             </div>

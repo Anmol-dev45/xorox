@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
     return (
-        <section className='py-28 bg-secondary'>
+        <section id='contact' className='py-28 bg-secondary'>
             <div className="container mx-auto px-4 flex justify-between">
                 <div className=''></div>
                 <div className='mx-auto md:ml-auto md:mr-8'>

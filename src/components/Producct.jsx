@@ -2,7 +2,7 @@ import React from 'react'
 import { PRODUCT } from '../constant'
 const Producct = () => {
     return (
-        <section className='bg-secondary py-20 md:py-28'>
+        <section id='product' className='bg-secondary py-20 md:py-28'>
             <div className='container mx-auto px-4'>
                 <h2 className='capitalize font-ubuntu text-3xl font-bold text-white text-center'>our products</h2>
                 <p className='text-center font-mukta text-white opacity-90 font-semibold mt-4 text-lg  '>Explore our range of innovative products</p>

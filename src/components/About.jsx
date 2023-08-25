@@ -2,7 +2,7 @@ import React from 'react'
 import { TEAM } from '../constant'
 const About = () => {
   return (
-    <section className='py-40'>
+    <section id='about' className='py-40'>
       <div className="container mx-auto px-4">
         <h2 className='capitalize font-ubuntu text-3xl font-bold text-dark text-center'>meet our team</h2>
         <div className='flex justify-center gap-x-28 gap-y-16 mt-16 flex-wrap'>
