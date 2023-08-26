@@ -2,7 +2,7 @@
 export const PRODUCT = [
     {
         name: "VoyageGuard",
-        description: "VoyageGuard is a comprehensive travel insurance provider offering coverage and assistance for a wide range of travel-related uncertainties and emergencies.",
+        description: "VoyageGuard is a reliable platform that offers tourists a safe and secure way to explore Nepal. Here, you can access various services such as assistance with taxi fares, destination guides, and trusted hotels at fair prices. We strive to provide comprehensive support in all aspects of your travel experience. To access these services, simply click the button below and start your journey with confidence.",
         path: "/images/voyagegard.png"
     }, {
         name: "Xordrobe",
