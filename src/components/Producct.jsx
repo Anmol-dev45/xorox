@@ -4,7 +4,7 @@ const Producct = () => {
     return (
         <section id='product' className='py-20 md:py-28'>
             <div className='container mx-auto px-4'>
-                <h2 className='capitalize font-ubuntu text-3xl font-bold text-dark text-center'>our products</h2>
+                <h2 className='capitalize font-ubuntu text-7xl font-bold text-dark text-center'>our products</h2>
                 
                 <div className='flex justify-center gap-16 mt-10 flex-wrap '>
                     {
@@ -16,7 +16,7 @@ const Producct = () => {
                                     </div>
                                     <div className='flex-1'>
 
-                                        <h3 className='text-[6rem] tracking- font-semibold font-mukta mt-10 mb-4 text-left tracking-wider text-secondary'>{item.name}</h3>
+                                        <h3 className='text-[5rem] tracking- font-semibold font-mukta mt-10 mb-4 text-left tracking-wider text-secondary'>{item.name}</h3>
                                         <p className='text-justify leading-[1.3rem] text-lg font-mukta text-black-600 font-medium tracking-wide mb-10 md:pr-32'>{item.description}</p>
                                         <a href="" className='text-blue-500 font-medium'>Lorem ipsum dolor sit amet consectetur adipisicing.</a>
                                     </div>
