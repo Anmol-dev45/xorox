@@ -4,7 +4,7 @@ const Producct = () => {
     return (
         <section id='product' className='py-20 md:py-28'>
             <div className='container mx-auto px-4'>
-                <h2 className='capitalize font-ubuntu text-3xl font-bold text-dark text-center'>our products</h2>
+                <h2 className='capitalize font-ubuntu text-7xl font-bold text-dark text-center'>our products</h2>
                 
                 <div className='flex justify-center gap-16 mt-10 flex-wrap '>
                     {
