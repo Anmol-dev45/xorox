@@ -10,7 +10,7 @@ const Footern = () => (
                 <div className='flex flex-col md:flex-row items-start gap-8 justify-between  w-full  text-white font-semibold'>
                     <div className='border-white pb-6 border-b-2 md:border-b-0 md:border-r-2 flex-1 md:pr-8'>
                         <h1 className='text-5xl md:text-[4.5rem]  font-ubuntu font-black md:mb-6'>Xorvix</h1>
-                        <p className='text-j5stify  md:mb-6'>Pioneering Tomorrow's Possibilities. We blend innovation and expertise to engineer solutions that redefine industries.</p>
+                        <p className='text-justify  md:mb-6'>Pioneering Tomorrow's Possibilities. We blend innovation and expertise to engineer solutions that redefine industries.</p>
                     </div>
                     <div className='flex flex-col items-start gap-y-2 flex-1'>
                         <p className='text-xl'>Email</p>
