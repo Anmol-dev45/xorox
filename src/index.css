@@ -15,4 +15,7 @@
     .btn {
         @apply px-6 py-2 bg-secondary text-white font-ubuntu capitalize font-semibold text-lg rounded-full hover:scale-110 delay-200 transition-all ease-out ;
     }
+    .btn-footer {
+        @apply px-6 py-2 bg-white text-secondary font-ubuntu capitalize font-semibold text-lg rounded-full hover:scale-110 delay-200 transition-all ease-out ;
+    }
 }

@@ -5,6 +5,7 @@ import Hero from './components/Hero'
 import Producct from './components/Producct'
 import About from './components/About'
 import Footer from './components/Footer'
+import Footern from './components/Footern'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -15,7 +16,8 @@ function App() {
     <Hero />
     <Producct />
     <About />
-    <Footer />
+    {/* <Footer /> */}
+    <Footern />
    </main>
   )
 }

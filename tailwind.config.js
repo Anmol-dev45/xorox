@@ -8,6 +8,12 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+      screens: {
+      sm: '480px',
+      md: '978px',
+      lg: '1220px',
+      xl: '1440px',
+    },
     extend: {
       colors: {
         "primary": "#ed459b",
