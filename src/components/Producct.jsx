@@ -11,9 +11,13 @@ const Producct = () => {
                         PRODUCT && (
                             PRODUCT.map(item => (
                                 <div key={item.name} className='flex flex-col even:md:flex-row  odd:md:flex-row-reverse items-start justify-center md:items-center gap-y-[80px] ' >
-                                    <div className='flex-1'>
-                                        <img src={item.path} alt={`image of ${item.name}`} className='max-w-[30%] mx-auto' />
-                                    </div>
+                                    <div className='flex-1 relative flex flex-col justify-center overflow-hidden bg-gray-50 py-6 sm:py-12'>
+  <img src="/img/beams.jpg" alt="" className='absolute top-1/2 left-1/2 max-w-none -translate-x-1/2 -translate-y-1/2' width="1308" />
+  
+  <div className='flex-1'>
+    <img src={item.path} alt={`image of ${item.name}`} className='max-w-[30%] mx-auto' />
+  </div>
+</div>
                                     <div className='flex-1'>
 
                                         <h3 className='text-[4.5rem] tracking- font-semibold font-mukta mt-10 mb-4 text-left tracking-wider text-primary'>{item.name}</h3>
