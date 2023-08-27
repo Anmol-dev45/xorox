@@ -40,7 +40,7 @@ export const TEAM = [
     },{
         name: "Sinora Katwal",
         position: "Content Creator",
-        path: "/images/advisor.png"
+        path: "/images/cc.png"
     },
 ]
 
