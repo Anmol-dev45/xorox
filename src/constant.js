@@ -38,6 +38,10 @@ export const TEAM = [
         position: "Tech Advisor",
         path: "/images/advisor.png"
     },{
+        name: "Sujata Neupane",
+        position: "Social Media Manager",
+        path: "/images/smm.png"
+    },{
         name: "Sinora Katwal",
         position: "Content Creator",
         path: "/images/cc.png"
