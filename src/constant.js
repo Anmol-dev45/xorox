@@ -29,6 +29,10 @@ export const TEAM = [
         name: "Sanjeev Shrestha",
         position: "CMO and Co-founder",
         path: "/images/cmo.png"
+    },{
+        name: "Sayuj Kuickel",
+        position: "Chief Information Officer",
+        path: "/images/cio.png"
     },
 ]
 
