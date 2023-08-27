@@ -34,9 +34,13 @@ export const TEAM = [
         position: "Chief Information Officer",
         path: "/images/cio.png"
     },{
+        name: "Kabish Dahal",
+        position: "Tech Advisor",
+        path: "/images/advisor.png"
+    },{
         name: "Sinora Katwal",
         position: "Content Creator",
-        path: "/images/cio.png"
+        path: "/images/advisor.png"
     },
 ]
 
