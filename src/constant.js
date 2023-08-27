@@ -33,6 +33,10 @@ export const TEAM = [
         name: "Sayuj Kuickel",
         position: "Chief Information Officer",
         path: "/images/cio.png"
+    },{
+        name: "Sinora Katwal",
+        position: "Content Creator",
+        path: "/images/cio.png"
     },
 ]
 
