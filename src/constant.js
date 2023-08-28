@@ -36,7 +36,7 @@ export const TEAM = [
     },{
         name: "Kabish Dahal",
         position: "Tech Advisor",
-        path: "/images/advisor.png"
+        path: "/images/kabish.png"
     },{
         name: "Sujata Neupane",
         position: "Social Media Manager",
