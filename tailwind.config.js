@@ -8,7 +8,7 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-      screens: {
+    screens: {
       sm: '480px',
       md: '978px',
       lg: '1220px',
@@ -17,9 +17,13 @@ export default {
     extend: {
       colors: {
         "primary": "#ed459b",
-        "secondary":"#a1499e",
-        "dark":"#1e2326",
-        "pure":"#e6e6e6"
+        "secondary": "#a1499e",
+        "dark": "#1e2326",
+        "pure": "#e6e6e6",
+        "orchid": "#a1499e",
+        "mediumblue": "#0047ff",
+        "aquamarine": "#00ffd1",
+        "hotpink": "#ed459b",
       },
       fontFamily: {
         "ubuntu": ['"Ubuntu"', ...defaultTheme.fontFamily.sans],

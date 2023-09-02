@@ -1,5 +1,6 @@
 import React from 'react'
 import { motion } from "framer-motion"
+import Gradient from './Gradient'
 const Hero = () => {
     return (
         <motion.section
@@ -18,7 +19,11 @@ const Hero = () => {
             }}
         >
             <div className="container mx-auto px-4 md:mt-32 md:px-24 mt-16 flex flex-col md:flex-row md:justify-between md:items-start gap-[60px]">
-                <div className='flex-1'>
+                <div className='flex-1 relative'> 
+                <div className='absolute -z-40 -top-10 h-[480px] w-[300px] blur-[170px]'>
+
+                <Gradient />
+                </div>
                     <div className='flex gap-2 items-center'>
                         <div className='h-10 w-[0.3rem] bg-secondary rounded-xl'></div>
                         <h1 className='text-3xl md:text-4xl'>Xorvix</h1>
