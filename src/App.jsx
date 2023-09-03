@@ -2,7 +2,7 @@ import { useState } from 'react'
 
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
-import Producct from './components/Producct'
+import Product from './components/Product'
 import About from './components/About'
 import Footer from './components/Footer'
 import Footern from './components/Footern'
@@ -15,11 +15,10 @@ function App() {
    <main>
     <Navbar />
     <Hero />
-    <Producct />
+    <Product />
     <About />
     {/* <Footer /> */}
     <Footern />
-    <Gradient />
    </main>
   )
 }

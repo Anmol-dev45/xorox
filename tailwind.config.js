@@ -10,7 +10,7 @@ export default {
   theme: {
     screens: {
       sm: '480px',
-      md: '978px',
+      md: '878px',
       lg: '1220px',
       xl: '1440px',
     },

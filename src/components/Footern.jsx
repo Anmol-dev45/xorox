@@ -7,7 +7,7 @@ const Footern = () => (
         <div className="container mx-auto px-4 ">
             <div className='flex flex-col-reverse md:flex-row justify-between gap-8'>
 
-                <div className='flex flex-col md:flex-row items-start gap-8 justify-between  w-full  text-white font-semibold'>
+                <div className='flex flex-col md:flex-row max-md:flex-wrap items-start gap-8 justify-between  w-full  text-white font-semibold'>
                     <div className='border-white pb-6 border-b-2 md:border-b-0 md:border-r-2 flex-1 md:pr-8'>
                         <h1 className='text-5xl md:text-[4.5rem]  font-ubuntu font-black md:mb-6'>Xorvix</h1>
                         <p className='text-justify  md:mb-6'>Pioneering Tomorrow's Possibilities. We blend innovation and expertise to engineer solutions that redefine industries.</p>
@@ -57,7 +57,7 @@ const Footern = () => (
             <div className='flex flex-col md:flex-row justify-between md:items-center text-white font-semibold'>
 
                 <p className='mt-4'>Copyright<span>&#169;</span> Xorvix. All right Reserved.</p>
-                <p className='capitalize'>terms & condition</p>
+                <a className='capitalize' href=''>terms & condition</a>
             </div>
         </div>
     </section>
