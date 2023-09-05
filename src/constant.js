@@ -16,11 +16,11 @@ export const TEAM = [
     },{
         name: "Anmol Basnet",
         position: "CTO and Co-founder",
-        path: "/images/anmol.jpg"
+        path: "/images/anmol.png"
     },{
         name: "Riwaz Aryal",
         position: "COO and Co-founder",
-        path: "/images/riwaj.jpg"
+        path: "/images/riwaj.png"
     },{
         name: "Sanjeev Shrestha",
         position: "CMO and Co-founder",
