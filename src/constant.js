@@ -26,22 +26,7 @@ export const TEAM = [
         position: "CMO and Co-founder",
         path: "/images/sanjeev.png"
     },{
-        name: "Sayuj Kuickel",
-        position: "Chief Information Officer",
-        path: "/images/cio.png"
-    },{
-        name: "Kabish Dahal",
-        position: "Tech Advisor",
-        path: "/images/kabish.png"
-    },{
-        name: "Sujata Neupane",
-        position: "Social Media Manager",
-        path: "/images/smm.png"
-    },{
-        name: "Sinora Katwal",
-        position: "Content Creator",
-        path: "/images/cc.png"
-    },
+
 ]
 
 
